@@ -1,0 +1,26 @@
+* {
+    margin: 0rem;
+    padding: 0rem;
+    text-decoration: none;
+    list-style: none;
+    color: #000;
+    box-sizing: border-box;
+}
+
+body {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+.main {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.gear {
+    max-width: 100%;
+}
